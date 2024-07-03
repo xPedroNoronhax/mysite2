@@ -1,0 +1,3 @@
+[
+  "tests/models/test_post.py::test_create_published_post"
+]
