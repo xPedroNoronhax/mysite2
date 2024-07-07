@@ -1,4 +1,0 @@
-{
-  "views/test__post.py": true,
-  "tests/models/test__post.py::test_post_view": true
-}
