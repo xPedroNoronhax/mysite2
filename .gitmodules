@@ -1,3 +1,3 @@
 [submodule "submodules/mysite2"]
-    path = submodules/mysite2
-    url = https://github.com/xPedroNoronhax/mysite2.git
+	path = submodules/mysite2
+	url = https://github.com/xPedroNoronhax/mysite2.git
